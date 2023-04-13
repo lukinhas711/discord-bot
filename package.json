@@ -14,5 +14,13 @@
   "dependencies": {
     "@discordjs/builders": "^1.6.1",
     "discord.js": "^14.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-config-semistandard": "^17.0.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0"
   }
 }
