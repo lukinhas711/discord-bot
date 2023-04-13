@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["discord-bot"],
+  "keywords": [
+    "discord-bot"
+  ],
   "author": "https:lucasribeiro.dev.br",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.1",
+    "discord.js": "^14.9.0"
+  }
 }
